@@ -84,7 +84,7 @@
                         <h3 style="color:#fff">YOUR DOWNLOAD LINK HAS BEEN GENERATED</h3>
                     </center>
                     <center>
-                        <input type="text" style="text-align: center; width: 500px; color: #000;" value="https://hellfiles.com/en/NcIHaHZkcoXpu7m/file" readonly="readOnly" id="myInput">
+                        <input type="text" style="text-align: center; width: 500px; color: #000;" value="https://hellfiles.com/en/ThyYYOAi35CAq9T/file" readonly="readOnly" id="myInput">
                         <div>
                             &nbsp
                             <button onclick="myFunction()"><span style="font-size:150%; color:red border-radius:3px">Copy Link</span></button>
