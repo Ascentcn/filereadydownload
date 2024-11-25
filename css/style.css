@@ -1,0 +1,217 @@
+#lp-pom-box-1855 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1)
+  }
+
+  #lp-pom-box-1877 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1)
+  }
+
+  #lp-pom-box-1932 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1)
+  }
+
+  #lp-pom-box-1953 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1)
+  }
+
+  #lp-pom-box-1566 {
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-1772 {
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-1639 {
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2196 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-box-2238 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-box-2252 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-box-2429 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2478 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2495 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2315 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2336 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2349 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2)
+  }
+
+  #lp-pom-box-2514 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-box-2530 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-box-2558 {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3)
+  }
+
+  #lp-pom-root .lp-pom-text a:link {
+    text-decoration: none
+  }
+
+  #lp-pom-root .lp-pom-text a:visited {
+    text-decoration: none
+  }
+
+  #lp-pom-root .lp-pom-text a:active {
+    text-decoration: none
+  }
+
+  #lp-pom-root .lp-pom-text a:hover {
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+  }
+
+  #lp-pom-box-1921 {
+    display: none;
+  }
+
+  #lp-pom-box-1918 {
+    display: none;
+  }
+
+  #lp-pom-box-1923 {
+    display: none;
+  }
+
+  #lp-pom-box-1998 {
+    display: none;
+  }
+
+  #lp-pom-box-1994 {
+    display: none;
+  }
+
+  #lp-pom-box-1996 {
+    display: none;
+  }
+
+  #lp-pom-box-2127 {
+    display: none;
+  }
+
+  #lp-pom-box-2125 {
+    display: none;
+  }
+
+  #lp-pom-box-2121 {
+    display: none;
+  }
+
+  #lp-pom-box-2123 {
+    display: none;
+  }
+
+  @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+  #lp-code-2188 {
+    height: auto !important;
+  }
+
+  .faq li {
+    padding: 12px 0;
+  }
+
+  .faq li.q {
+    text-decoration: none;
+    background-color: #ffffff;
+    padding: 27px 27px 24px 27px;
+    margin-bottom: 13px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125) !important;
+    cursor: pointer;
+  }
+
+  .faq li.q h2 {
+    font-family: arial;
+    font-size: 24px;
+    font-weight: normal !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 34px;
+    letter-spacing: normal;
+    color: #1c284c;
+    text-align: left;
+  }
+
+  .txt {
+    color: #0d3ecc !important;
+  }
+
+  .faq li.a {
+    display: none;
+    padding: 0px 32px 32px 72px;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 32px;
+    letter-spacing: normal;
+    color: #1c284c;
+    text-align: left;
+  }
+
+  .faq li.q span {
+    float: left;
+    margin-top: 10px;
+  }
+
+  .faq li.q span::before {
+    font-family: fontawesome;
+    content: "\f067";
+    font-size: 17px;
+    color: #8dcffd;
+    padding-right: 30px;
+  }
+
+  .faq li.q .rotate:before {
+    font-family: fontawesome;
+    content: "\f068";
+    font-size: 17px;
+    color: #0d3ecc;
+    padding-right: 30px;
+  }
+
+  @media screen and (min-width: 100px) and (max-width: 640px) {
+    .faq li.q h2 {
+      font-size: 18px;
+      line-height: 30px;
+      width: 80%;
+      display: flex;
+    }
+
+    .faq li.a {
+      font-size: 16px;
+      line-height: 28px;
+      padding: 20px;
+    }
+  }
